@@ -1,5 +1,11 @@
 # Machine Learning Assignment - 2: Spambase E-mail Classification
 
+## Student Details
+Name: Panneer Selvam K
+Student ID: 2026AK05425
+Email: 2026AK05425@wilp.bits-pilani.ac.in
+Semester: I Semester 2026–27
+
 ## a. Problem Statement
 
 The objective of this assignment is to classify an e-mail as spam or ham (not spam) from word-frequency and character-frequency statistics extracted from the message text, using five different machine learning classifiers and comparing them on Accuracy, AUC, Precision, Recall, F1 and MCC.
